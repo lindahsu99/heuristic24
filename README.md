@@ -47,7 +47,7 @@ In this phase, a termininated criteria is carried to ensure a finite search span
 The complexity of this solution is O(m2n7), this method improves 8% on average of makespan.<br/>
 
 <p align = 'center'>
-<img src="images/Complexity_LS.jpg" alt="Local search complexity" width="400"/></p><br/>
+<img src="images/complexity_LS.jpg" alt="Local search complexity" width="400"/></p><br/>
 
 
 ### Metaheuristics
@@ -70,7 +70,3 @@ The constructive algorithm demonstrates a remarkable capacity for near-optimal s
 computational demand. 
 The local search algorithm served as a fine-tuning mechanism that improved the quality of the initial schedules. 
 Metaheuristic in spite of starting with a worse initial solution, through exhaustive exploration among the considerable numbers of potential solutions, the performance was almost equally superior to the solution generated without any constraints.
-
-
-
-
